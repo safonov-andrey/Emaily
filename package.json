@@ -1,0 +1,19 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git subtree push --prefix server heroku master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safonov-andrey/Emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safonov-andrey/Emaily/issues"
+  },
+  "homepage": "https://github.com/safonov-andrey/Emaily#readme"
+}
